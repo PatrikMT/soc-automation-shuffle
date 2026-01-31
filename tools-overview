@@ -1,0 +1,10 @@
+## Tools Overview
+
+### Wazuh (SIEM)
+Responsible for log collection, correlation rules, and alert generation.
+
+### Shuffle (SOAR)
+Handles security orchestration and automation by executing playbooks based on SIEM alerts.
+
+### TheHive
+Used for incident case management, investigation tracking, and analyst collaboration.
